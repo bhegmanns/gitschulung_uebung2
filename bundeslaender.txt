@@ -1,3 +1,31 @@
-Baden Würtemberg Stuttgart
-Bayern München
+Baden-Württemberg → Stuttgart
 
+Bayern (Bavaria) → München (Munich)
+
+Berlin → Berlin
+
+Brandenburg → Potsdam
+
+Bremen → Bremen
+
+Hamburg → Hamburg
+
+Hessen (Hesse) → Wiesbaden
+
+Mecklenburg-Vorpommern → Schwerin
+
+Niedersachsen (Lower Saxony) → Hannover
+
+Nordrhein-Westfalen (North Rhine–Westphalia) → Düsseldorf
+
+Rheinland-Pfalz (Rhineland-Palatinate) → Mainz
+
+Saarland → Saarbrücken
+
+Sachsen (Saxony) → Dresden
+
+Sachsen-Anhalt (Saxony-Anhalt) → Magdeburg
+
+Schleswig-Holstein → Kiel
+
+Thüringen (Thuringia) → Erfurt
